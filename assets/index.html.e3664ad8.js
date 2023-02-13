@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,b as e,d as c}from"./app.721c7a1a.js";const n={},r=e("h1",{id:"物联网-iot",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#物联网-iot","aria-hidden":"true"},"#"),c(" 物联网（IoT）")],-1),s=[r];function d(_,i){return o(),a("div",null,s)}const l=t(n,[["render",d],["__file","index.html.vue"]]);export{l as default};

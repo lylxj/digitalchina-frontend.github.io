@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-fa193954","path":"/develop/matrix/miniapp/uniapp/","title":"uni-app","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675850157000,"contributors":[{"name":"肖子立","email":"xiaozlb@digitalchina.com","commits":1}]},"filePathRelative":"develop/matrix/miniapp/uniapp/README.md"}');export{a as data};
